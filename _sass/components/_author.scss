@@ -16,8 +16,8 @@
     float: left;
     border-radius: 100%;
     margin-right: $base-spacing-unit;
-    height: quadruple($base-spacing-unit);
-    width: quadruple($base-spacing-unit);
+    height: double($base-spacing-unit);
+    width: double($base-spacing-unit);
 
     @include mq($from: desktop) {
       margin-right: double($base-spacing-unit);
