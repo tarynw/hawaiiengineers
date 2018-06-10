@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: Hawaii Engineers
 author: kagawaa
 featured: true
-image: '/images/posts/HawaiiEngineers.jpeg'
+image: '/images/posts/HawaiiEngineers.jpg'
 ---
 The purpose of this list is to show our local students the faces of Hawaii born engineers or engineers doing work in Hawaii. The goal is to inspire them to go for an engineering degree.
 
