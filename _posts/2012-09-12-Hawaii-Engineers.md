@@ -2,7 +2,7 @@
 layout: post
 title: Hawaii Engineers
 featured: true
-author: Aaron Kagawa
+author: kagawaa
 ---
 
 The purpose of this list is to show our local students the faces of Hawaii born engineers or engineers doing work in Hawaii. The goal is to inspire them to go for an engineering degree.
