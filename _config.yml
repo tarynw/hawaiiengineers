@@ -10,8 +10,8 @@ title:              Hawaii Engineers
 logo:               # Logo image URL
 email:              kagawaa@gmail.com
 description:        Hawaii's engineers. To help show the students of Hawaii that they can be engineers! 
-baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://kagawaa.github.io/hawaiiengineers/' # The base hostname & protocol for your site
+baseurl:            'hawaiiengineers' # The subpath of your site, e.g. /blog
+url:                'https://kagawaa.github.io/' # The base hostname & protocol for your site
 github_username:    kagawaa
 twitter_username:   kagawaa
 instagram_username: kagawaa
@@ -48,11 +48,11 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
-    name:             Ahmad Ajmi
-    bio:              Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
+  kagawaa:
+    name:             Aaron Kagawa
+    bio:              Software Engineer 
     gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:            info@aspirethemes.com
-    website:          http://aspirethemes.com
-    github_username:  ahmadajmi
-    twitter_username: ahmadajmi
+    email:            kagawaa@gmail.com
+    website:          https://www.linkedin.com/in/aaronkagawa
+    github_username:  kagawaa
+    twitter_username: kagawaa
