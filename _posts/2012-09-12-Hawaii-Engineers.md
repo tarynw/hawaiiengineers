@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Hawaii Engineers
 author: kagawaa
 featured: true
