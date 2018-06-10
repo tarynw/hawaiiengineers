@@ -7,7 +7,7 @@
 
 # Site settings
 title:              Hawaii Engineers
-logo:               # Logo image URL
+logo:               https://pbs.twimg.com/profile_images/1005730633174302721/gamoAq-t_400x400.jpg
 email:              hawaiiengineers@gmail.com
 description:        Hawaii's engineers. To help show the students of Hawaii that they can be engineers! 
 baseurl:            '/hawaiiengineers' # The subpath of your site, e.g. /blog
