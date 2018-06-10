@@ -2,7 +2,7 @@
 layout: post
 title: Aaron A. Kagawa
 author: kagawaa
-image: '/images/AaronKagawa.jpg'
+image: '/images/posts/AaronKagawa.jpg'
 ---
 
 Aiea High School
