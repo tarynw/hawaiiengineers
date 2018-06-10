@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Aaron A. Kagawa
-featured: true
 author: kagawaa
 image: '/images/AaronKagawa.jpg'
 ---
