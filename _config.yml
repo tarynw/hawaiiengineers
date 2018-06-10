@@ -10,9 +10,9 @@ title:              Hawaii Engineers
 logo:               # Logo image URL
 description:        Hawaii's engineers. To help show the students of Hawaii that they can be engineers! 
 baseurl:            '/hawaiiengineers' # The subpath of your site, e.g. /blog
-url:                'https://kagawaa.github.io' # The base hostname & protocol for your site
+url:                'https://hawaiiengineers.github.io' # The base hostname & protocol for your site
 github_username:    kagawaa
-twitter_username:   kagawaa
+twitter_username:   hawaiiengineers
 
 markdown:  kramdown
 permalink: pretty
