@@ -6,7 +6,9 @@ image: '/images/posts/AaronKagawa.jpg'
 ---
 
 Aiea High School
+
 University of Hawaii
+
 Principal Engineer, Project Omni - Honolulu, Hawaii
 
 *“Become an engineer and help change the world.”*
