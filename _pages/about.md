@@ -3,9 +3,6 @@ layout: page
 title: About
 image: '/images/pages/about.jpeg'
 ---
+The purpose of this list is to show our local students the faces of Hawaii born engineers or engineers doing work in Hawaii. The goal is to inspire them to go for an engineering degree.
 
-You love Minimalism, and you also love writing, Maxima is designed for you. Maxima focus on showing your content in a clean and simple way, focus on images, typography, and white space.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+If you want to help out send me your advice to the students, what high school, college, and where you work. 
