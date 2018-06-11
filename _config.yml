@@ -17,7 +17,7 @@ twitter_username:   hawaiiengineers
 
 markdown:  kramdown
 permalink: pretty
-paginate:  13
+paginate:  40
 sass:
   style: compressed
 
