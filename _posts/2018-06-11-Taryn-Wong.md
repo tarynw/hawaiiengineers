@@ -1,3 +1,10 @@
+---
+layout: post
+title: Taryn Wong
+author: kagawaa
+image: '/images/posts/TarynWong.jpg'
+---
+
 Taryn Wong
 Sacred Hearts Academy
 Johns Hopkins University
